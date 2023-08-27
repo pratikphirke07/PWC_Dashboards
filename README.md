@@ -3,5 +3,5 @@ Certification of Completion<br>
 PWC - PowerBI Virtual Case Expericnce 
 ![wget](https://github.com/pratikphirke07/PWC_Dashboards/blob/main/Certificate.png)
 
-Call Center Insights
-![wget]https://github.com/pratikphirke07/PWC_Dashboards/blob/main/CallCenter/Call_Center.png
+Call Center Insights <br>
+![wget](https://github.com/pratikphirke07/PWC_Dashboards/blob/main/CallCenter/Call_Center.png)
