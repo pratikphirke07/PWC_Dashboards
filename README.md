@@ -1,9 +1,10 @@
 # PWC_Dashboards
 Certification of Completion<br>
-PWC - PowerBI Virtual Case Expericnce 
+PWC - PowerBI Virtual Case Expericnce <br>
 ![wget](https://github.com/pratikphirke07/PWC_Dashboards/blob/main/Certificate.png)
-<br><br>
-Diversity and Inclusion Insights
+<br>
+<br>
+<b>Diversity and Inclusion Insights </b>
 ![wget](https://github.com/pratikphirke07/PWC_Dashboards/blob/main/Diversity%26Inclusion/Diversity.png)
 <br><br>
 Call Center Insights <br>
